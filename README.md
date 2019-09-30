@@ -15,3 +15,7 @@ Look at the issue tracker and choose an issue to work with.
 Happy Hacking!
  
 **PS: You have to ask to get assigned before submitting the pull request. Else the PR will not be counted.**
+
+The Programming Languages are taken from here: https://en.wikipedia.org/wiki/List_of_programming_languages
+
+If anyone wants to add a new programming language, feel free to open a new issue and ask for getting assigned to the issue.
