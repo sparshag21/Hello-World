@@ -1,2 +1,2 @@
-name=input(' ');
-print("Welcome,",name);
+name=input(' ')
+print("Welcome,",name)
