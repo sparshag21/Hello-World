@@ -10,6 +10,8 @@ Tuts on Github:
  - Isssues: https://guides.github.com/features/issues/
  - Puill Requests: https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
  
- Look at the issue tracker and choose an issue to work with.
- Happy Hacking!
-PS: You have to ask to get assigned before submitting the pull request. Else the PR will not be counted.
+Look at the issue tracker and choose an issue to work with.
+
+Happy Hacking!
+ 
+**PS: You have to ask to get assigned before submitting the pull request. Else the PR will not be counted.**
