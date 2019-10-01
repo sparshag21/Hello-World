@@ -13,6 +13,8 @@ Tuts on Github:
 Look at the issue tracker and choose an issue to work with.
 
 Happy Hacking!
+
+**Register at [hacktoberfest.digitalocean.com](hacktoberfest.digitalocean.com) before making your first PR**
  
 **PS: You have to ask to get assigned before submitting the pull request. Else the PR will not be counted.**
 
