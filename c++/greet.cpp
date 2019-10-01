@@ -4,6 +4,9 @@ using namespace std;
 int main()
 {
 	char user[20];
-	cout<<"Hello World!\n";
+
+    cout<<"Enter Your Name!\n";
+	cin>>user;
+	cout<<"Welcome "<< user <<"\n";
     return 0;
 }
