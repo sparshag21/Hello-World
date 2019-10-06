@@ -4,16 +4,16 @@ go through the issue list and start contributing!
 
 ### Tutorials for Github:
 
- - Complete Workflow on Github: https://guides.github.com/introduction/flow/
+- Complete Workflow on Github: https://guides.github.com/introduction/flow/
 
- - Installation:
-    - Windows: https://www.atlassian.com/git/tutorials/install-git#windows
-    - Linux: https://www.atlassian.com/git/tutorials/install-git#linux
-    - Mac OS X: https://www.atlassian.com/git/tutorials/install-git#mac-os-x
+- Installation:
+	- Windows: https://www.atlassian.com/git/tutorials/install-git#windows
+	- Linux: https://www.atlassian.com/git/tutorials/install-git#linux
+	- Mac OS X: https://www.atlassian.com/git/tutorials/install-git#mac-os-x
 
- - Isssues: https://guides.github.com/features/issues/
+- Isssues: https://guides.github.com/features/issues/
 
- - Pull Requests: https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+- Pull Requests: https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
 
 Happy Hacking!
